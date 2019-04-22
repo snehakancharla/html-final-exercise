@@ -1,0 +1,44 @@
+.head{
+	font-family: 'Patua One', cursive;
+	font-size: 30px;
+	position: fixed;
+	background-color: #58FAF4;
+	height: 60px;
+}
+.init {
+	color: #0A2229;
+} 
+.navi li{
+	display: inline;
+	margin-left: 0 ;
+	margin-right: 30px;
+}
+.navi a , .foot a{
+	text-decoration: none;
+	color: #0A2229; 
+}
+.navi a:hover{
+	background-color: black;
+	color: #FFFFFF;
+}
+.foot a:hover{
+	background-color: black;
+	color: #FFFFFF;
+}
+.hero , .two {
+	background-color: #E0F8F7 ; 
+	font-family: 'Lobster Two', cursive;
+}
+.hero{
+	padding-top: 60px;
+}
+.two {
+	margin : 30px 0;
+}
+.foot {
+	font-family: 'Patua One', cursive;
+	background-color: #04B4AE;
+}
+
+
+
